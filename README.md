@@ -2,4 +2,4 @@
 
 Hello, friend.
 
-Hi there.
+Hi there!
